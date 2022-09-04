@@ -1,2 +1,4 @@
-# Google-Data-Analytics-Capstone
-Capstone Project for Google Data Analytics Certification. Analysis of Bellabeat Fitness Tracker Data using R.
+# Google Data Analytics Capstone
+
+## Bellabeat Fitness Tracker App Analysis
+
