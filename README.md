@@ -6,21 +6,20 @@ This optional analysis is featured in the Google Data Analytics Certificate prog
 
 ### Background:
 
-Bellabeat is a high-tech manufacturer of beautifully-designed health-focused smart products for women since 2013. Inspiring and empowering women with knowledge about their own health and habits, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for females.
-
-The co-founder and Chief Creative Officer, Urška Sršen is confident that an analysis of non-Bellebeat consumer data (ie. FitBit fitness tracker usage data) would reveal more opportunities for growth.
+Bellabeat is a high-tech manufacturer of health products for women. Cofounder and Chief Creative Officer, Urška Sršen, has asked the Bellabeat marketing analytics team to analyze smart device fitness data from their users to potentially open new opportunities for growth.¶
 
 ### Business Task:
 
-Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing team.
+What patterns and trends are found in smart device usage that apply to Bellabeat's customers, and how will these trends effect future marketing strategies?
 
 ### Business Objectives:
 
 What are the trends identified?
 How could these trends apply to Bellabeat customers?
 How could these trends help influence Bellabeat marketing strategy?
+
 Tools:
-Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
+R for data cleaning, analysis, visualization and transformation.
 
 ### Data Set:
 
