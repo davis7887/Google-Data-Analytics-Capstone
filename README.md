@@ -1,5 +1,7 @@
 # Google Data Analytics Capstone
 
+![text](https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/bellabeat%20logo.webp)
+
 ## Bellabeat Fitness Tracker App Analysis
 
 This optional analysis is featured in the Google Data Analytics Certificate program offered through Coursera.
