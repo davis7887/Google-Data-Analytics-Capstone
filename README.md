@@ -1,6 +1,6 @@
 # Google Data Analytics Capstone
 
-![text](https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/bellabeat%20logo.webp)
+<img src="https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/bellabeat%20logo.webp" width="600" height="200" />
 
 ## Bellabeat Fitness Tracker App Analysis
 
