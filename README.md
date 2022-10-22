@@ -1,5 +1,7 @@
 # Google Data Analytics Capstone
 
+## [Demo Link](https://www.kaggle.com/code/danid7878/bellabeat-case-study)
+
 <img src="https://21066571.fs1.hubspotusercontent-na1.net/hubfs/21066571/bellabeat%20logo.webp" width="600" height="200" />
 
 ## Bellabeat Fitness Tracker App Analysis
